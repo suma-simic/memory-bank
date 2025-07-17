@@ -1,1 +1,1 @@
-Test Setup Checkliste
+Immer wenn ein neues Prokekt gestartet wird, so folgend ich automatisch die Setup-Checkliste: 1. Projekt- und Zeildefinition klären 2. Infrastruktur-Entscheidungen treffen
